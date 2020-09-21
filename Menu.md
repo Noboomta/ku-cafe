@@ -1,10 +1,13 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Night Food Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+|  French Fries                           |  80  |
+|  McChicken                              |  90  |
+|  Cheeseburger                           |  85  |
+|  McWings                           |  40  |
 
 ## Lunch Menu
 | Item                                   | Price |
@@ -14,10 +17,17 @@
 | Tonkatsu                               |  250  |
 | Katsudon                               |  170  |
 
-Coming soon.
+## Dinner Menu
 
-etc.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Pork Steak                             |  399  |
+| Wagyu A5 Steak                         |  1299 |
+| Cabonara Spaghetti                     |  250  |
+| Fish and chips                         |  200  |
 
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
+
+
