@@ -1,13 +1,13 @@
 # KU Cafe Menu
 
-## Night Food Menu
+## Breakfast Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-|  French Fries                           |  80  |
-|  McChicken                              |  90  |
-|  Cheeseburger                           |  85  |
-|  McWings                           |  40  |
+| Sunny side-up egg                      |  60   |
+| Bacon                                  |  50   |
+| Sausage                                |  50   |
+| Omelette                               |  60   |
 
 ## Lunch Menu
 | Item                                   | Price |
@@ -29,5 +29,3 @@
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
-
-
