@@ -4,7 +4,7 @@
 
 Breakfast Menu
 Lunch Menu
-Dinner Menu
+[Dinner Menu](Menu.md#Dinner-Menu)
 Night Food Menu
 Beverages
 
@@ -12,7 +12,7 @@ Beverages
 
 **TODO**: Each person adds himself to this list; **not** one person adds everyone
 
-| Name      | Role      | Github   |
-|:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
-| ...       | ...       | ...      |
+| Name              | Role        | Github    |
+|:------------------|-------------|-----------|
+| Puvana Swatvanith | Dinner Menu | @Noboomta |
+| ...               | ...         | ...       |
