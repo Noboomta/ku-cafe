@@ -8,7 +8,7 @@
 |  McChicken                              |  90  |
 |  Cheeseburger                           |  85  |
 |  McWings                           |  40  |
-|  Chic Stick   
+|  Chic Stick                         |  30  |
 
 ---
 
