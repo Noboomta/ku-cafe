@@ -1,6 +1,5 @@
 # KU Cafe
 
-**TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
 Breakfast Menu
 Lunch Menu
@@ -10,9 +9,9 @@ Beverages
 
 ## About Us
 
-**TODO**: Each person adds himself to this list; **not** one person adds everyone
 
-| Name              | Role        | Github    |
-|:------------------|-------------|-----------|
-| Puvana Swatvanith | Dinner Menu | @Noboomta |
-| ...               | ...         | ...       |
+| Name      | Role      | Github   |
+|:----------|-----------|----------|
+| Puvana Swatvanith              | Dinner menu      | @Noboomta       |
+| Suchon Prasert                 | Night Food       | @toey10112      |
+| Theetouch Kasemarnontana       | Beverages        | @lisbono2001    |
