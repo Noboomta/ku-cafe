@@ -15,4 +15,4 @@ Beverages
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
 | Your name | Your menu | @your_github_id |
-| ...       | ...       | ...      |
+| Suchon Prasert       | Night Food       | @toey10112      |
