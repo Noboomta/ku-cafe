@@ -12,4 +12,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Suchon Prasert       | Night Food       | @toey10112      |
+| Suchon Prasert                 | Night Food       | @toey10112      |
+| Theetouch Kasemarnontana       | Beverages        | @lisbono2001    |
