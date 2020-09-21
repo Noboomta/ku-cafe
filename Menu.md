@@ -4,7 +4,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Sunny side-up egg                      |  60   |
+| Bacon                                  |  50   |
+| Sausage                                |  50   |
+| Omelette                               |  60   |
 
 ## Lunch Menu
 

@@ -2,7 +2,7 @@
 
 **TODO**: add hyperlinks and format these one per line. Remove this TODO.
 
-Breakfast Menu
+[Breakfast Menu](Menu.md#breakfast-menu)
 Lunch Menu
 Dinner Menu
 Night Food Menu
@@ -12,7 +12,7 @@ Beverages
 
 **TODO**: Each person adds himself to this list; **not** one person adds everyone
 
-| Name      | Role      | Github   |
-|:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
+| Name                  | Role           | Github     |
+|:----------------------|----------------|------------|
+| Purich Trainorapong   | Breakfast menu | @jeanyjean |
 | ...       | ...       | ...      |
