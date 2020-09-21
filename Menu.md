@@ -10,6 +10,12 @@
 |  McWings                           |  40  |
 
 ## Lunch Menu
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Zaru Ramen                             |  110  |
+| Butayaki                               |  150  |
+| Tonkatsu                               |  250  |
+| Katsudon                               |  170  |
 
 ## Dinner Menu
 
