@@ -4,8 +4,8 @@
 [Breakfast Menu](Menu.md#breakfast-menu)<br>
 [Lunch Menu](Menu.md#Lunch-Menu)<br>
 [Dinner Menu](Menu.md#Dinner-Menu)<br>
+[Beverages](Menu.md#Beverages)<br>
 [Night Food Menu](Menu.md#Night-Food-Menu)<br>
-Beverages
 
 ## About Us
 
