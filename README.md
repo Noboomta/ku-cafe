@@ -5,7 +5,7 @@
 [Lunch Menu](Menu.md#Lunch-Menu)<br>
 [Dinner Menu](Menu.md#Dinner-Menu)<br>
 Night Food Menu<br>
-Beverages
+[Beverages](Menu.md#Beverages)<br>
 
 ## About Us
 
