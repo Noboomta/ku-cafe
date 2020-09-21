@@ -32,7 +32,7 @@
 |:---------------------------------------|------:|
 | Water                                  |  20   |
 | Juice                                  |  70   |
-| MilkShake                              |  100  |
+| Milk shake                             |  100  |
 | Beer                                   |  140  |
 
 ## Night Food Menu
