@@ -11,9 +11,14 @@
 
 ## Lunch Menu
 
-Coming soon.
+## Dinner Menu
 
-etc.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Pork Steak                             |  399  |
+| Wagyu A5 Steak                         |  1299 |
+| Cabonara Spaghetti                     |  250  |
+| Fish and chips                         |  200  |
 
 ---
 
