@@ -15,4 +15,3 @@ Beverages
 | Name              | Role       | Github        |
 |:------------------|------------|---------------|
 | Sahatsawat Kanpai | lunch-menu | @keyboard2543 |
-| ...       | ...       | ...      |
